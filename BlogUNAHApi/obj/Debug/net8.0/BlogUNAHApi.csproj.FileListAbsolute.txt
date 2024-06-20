@@ -1,0 +1,66 @@
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.exe
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.deps.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.runtimeconfig.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.pdb
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.AssemblyInfo.cs
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogUNAHApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogUNAHApi.props
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogUNAHApi.props
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogUNAHApi.props
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\scopedcss\bundle\BlogUNAHApi.styles.css
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAH.76A74D58.Up2Date
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\refint\BlogUNAHApi.dll
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.pdb
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.genruntimeconfig.cache
+C:\Users\PC\Desktop\PO\unidad1\Apirest\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\ref\BlogUNAHApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.exe
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.deps.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.runtimeconfig.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\BlogUNAHApi.pdb
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.BlogUNAHApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.build.BlogUNAHApi.props
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlogUNAHApi.props
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlogUNAHApi.props
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\scopedcss\bundle\BlogUNAHApi.styles.css
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAH.76A74D58.Up2Date
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\refint\BlogUNAHApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.pdb
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\ref\BlogUNAHApi.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\SeedData\categories.json
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Newtonsoft.Json.dll

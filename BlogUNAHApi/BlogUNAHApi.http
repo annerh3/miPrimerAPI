@@ -1,0 +1,6 @@
+@BlogUNAHApi_HostAddress = http://localhost:5207
+
+GET {{BlogUNAHApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

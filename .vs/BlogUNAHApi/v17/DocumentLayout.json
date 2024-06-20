@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\seeddata\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\seeddata\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "categories.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\SeedData\\categories.json",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\SeedData\\categories.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\SeedData\\categories.json",
+              "RelativeToolTip": "BlogUNAHApi\\SeedData\\categories.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T00:19:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Services\\CategoriesService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Services\\CategoriesService.cs",
+              "ViewState": "AQIAAGkAAADA0MzMzMwqwLMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:40:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAoAAACAMjMzMzMbwCEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:50:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T00:51:14.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
