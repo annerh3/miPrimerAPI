@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\database\\blogunahcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\database\\blogunahcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\database\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\database\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\seeddata\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\seeddata\\categories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\dtos\\categories\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\migrations\\20240626002130_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\migrations\\20240626002130_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|c:\\users\\admin\\desktop\\unah\\clases\\is-410\\unidades\\unidad 1\\apirest-maikey\\blogunahapi\\blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C17952-BBE7-44BC-9C63-63E02ABF4A06}|BlogUNAHApi\\BlogUNAHApi.csproj|solutionrelative:blogunahapi\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "categories.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\SeedData\\categories.json",
-              "RelativeDocumentMoniker": "BlogUNAHApi\\SeedData\\categories.json",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\SeedData\\categories.json",
-              "RelativeToolTip": "BlogUNAHApi\\SeedData\\categories.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T00:19:08.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesService.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
-              "RelativeDocumentMoniker": "BlogUNAHApi\\Services\\CategoriesService.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
-              "RelativeToolTip": "BlogUNAHApi\\Services\\CategoriesService.cs",
-              "ViewState": "AQIAAGkAAADA0MzMzMwqwLMAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:40:30.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "BlogUNAHApi\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "BlogUNAHApi\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAoAAACAMjMzMzMbwCEAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:50:29.17Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,9 +60,114 @@
               "RelativeDocumentMoniker": "BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
               "RelativeToolTip": "BlogUNAHApi\\Dtos\\Categories\\CategoryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T00:51:14.134Z"
+              "WhenOpened": "2024-06-26T00:48:29.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\appsettings.json",
+              "RelativeToolTip": "BlogUNAHApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T00:02:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\appsettings.Development.json",
+              "RelativeToolTip": "BlogUNAHApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T00:44:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\Entities\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Database\\Entities\\CategoryEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\Entities\\CategoryEntity.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Database\\Entities\\CategoryEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:33:13.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Database\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Database\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:29:11.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogUNAHContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\BlogUNAHContext.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Database\\BlogUNAHContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Database\\BlogUNAHContext.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Database\\BlogUNAHContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:20:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240626002130_init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Migrations\\20240626002130_init.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Migrations\\20240626002130_init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Migrations\\20240626002130_init.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Migrations\\20240626002130_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:21:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Startup.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Startup.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Startup.cs",
+              "ViewState": "AQIAAA4AAADg//////8fwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:06:37.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "BlogUNAHApi\\Services\\CategoriesService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\UNAH\\Clases\\IS-410\\UNIDADES\\UNIDAD 1\\Apirest-Maikey\\BlogUNAHApi\\BlogUNAHApi\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "BlogUNAHApi\\Services\\CategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:16:21.95Z",
+              "EditorCaption": ""
             }
           ]
         }

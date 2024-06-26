@@ -1,7 +1,9 @@
 ﻿/*  -> Startup.cs: Configura los servicios y el pipeline de solicitud HTTP. */
 
+using BlogUNAHApi.Database;
 using BlogUNAHApi.Services;
 using BlogUNAHApi.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace BlogUNAHApi
 {
@@ -22,9 +24,13 @@ namespace BlogUNAHApi
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
+        // Add DbContext
+            services.AddDbContext<BlogUNAHContext>(options => 
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
         // Add custom services
             services.AddTransient<ICategoriesService, CategoriesService>();
-        // Registra el servicio CategoriesService como una implementación de ICategoriesService con un ciclo de vida transitorio.
+            // Registra el servicio CategoriesService como una implementación de ICategoriesService con un ciclo de vida transitorio.
         }
 
         // método se utiliza para configurar el pipeline de solicitud HTTP de la aplicación

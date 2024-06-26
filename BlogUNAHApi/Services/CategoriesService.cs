@@ -45,7 +45,7 @@ namespace BlogUNAHApi.Services
             categoriesDtos.Add(categoryDto);
 
             //pasar de Category Dto a Category Entity
-            var categories = categoriesDtos.Select(c => new Category
+            var categories = categoriesDtos.Select(c => new CategoryEntity
             {
                 Id = c.Id,
                 Name = c.Name,
@@ -93,7 +93,7 @@ namespace BlogUNAHApi.Services
             }
 
             //pasar de Category Dto a Category Entity
-            var categories = categoriesDto.Select(c => new Category
+            var categories = categoriesDto.Select(c => new CategoryEntity
             {
                 Id = c.Id,
                 Name = c.Name,
@@ -119,7 +119,7 @@ namespace BlogUNAHApi.Services
            categoriesDto.Remove(categoryToDelete);
 
             //pasar de Category Dto a Category Entity
-            var categories = categoriesDto.Select(c => new Category
+            var categories = categoriesDto.Select(c => new CategoryEntity
             {
                 Id = c.Id,
                 Name = c.Name,
@@ -151,7 +151,7 @@ namespace BlogUNAHApi.Services
             /* "DeserializeObject" es un método que convierte una cadena JSON en un objeto .NET.
                 En este caso, convierte el JSON en una lista de objetos Category. */
 
-            var categories = JsonConvert.DeserializeObject<List<Category>>(json);
+            var categories = JsonConvert.DeserializeObject<List<CategoryEntity>>(json);
 
             var dtos = categories.Select(c => new CategoryDto
             {
@@ -164,7 +164,7 @@ namespace BlogUNAHApi.Services
         }
 
         // Escribir Categorias
-        private async Task WriteCategoriesToFileAsync(List<Category> categories)
+        private async Task WriteCategoriesToFileAsync(List<CategoryEntity> categories)
         { // preparar contenido (serialización) → verificar existencia → escribir contenido.
             var json = JsonConvert.SerializeObject(categories, Formatting.Indented);
         /* 'SerializeObject' es un método de JsonConvert que convierte un objeto .NET (objeto Category) en una cadena JSON.
