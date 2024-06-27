@@ -9,6 +9,7 @@ namespace BlogUNAHApi.Database.Entities
         [Column("id")]
         public Guid Id { get; set; }
         // ----------------------
+        [StringLength(100)]
         [Column("created_by")]
         public string CreatedBy { get; set; }
        // ----------------------

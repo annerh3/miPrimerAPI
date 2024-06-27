@@ -1,0 +1,18 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace BlogUNAHApi.Database.Entities
+{
+    [Table("tags", Schema = "dbo")]
+    public class TagEntity : BaseEntity
+    {
+        [StringLength(20)]
+        [Required]
+        [Column("name")]
+        public string Name { get; set; }
+
+        [StringLength(250)]
+        [Column("description")]
+        public string Description { get; set; }
+    }
+}
