@@ -64,3 +64,4 @@ C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogU
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\ref\BlogUNAHApi.dll
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\SeedData\categories.json
 C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\UNAH\Clases\IS-410\UNIDADES\UNIDAD 1\Apirest-Maikey\BlogUNAHApi\BlogUNAHApi\obj\Debug\net8.0\BlogUNAHApi.sourcelink.json
