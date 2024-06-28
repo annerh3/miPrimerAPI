@@ -4,6 +4,7 @@ using BlogUNAHApi.Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BlogUNAHApi.Migrations
 {
     [DbContext(typeof(BlogUNAHContext))]
-    partial class BlogUNAHContextModelSnapshot : ModelSnapshot
+    [Migration("20240628004652_AddTablePostsTags2")]
+    partial class AddTablePostsTags2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

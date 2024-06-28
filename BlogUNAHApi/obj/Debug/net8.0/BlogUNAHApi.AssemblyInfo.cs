@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogUNAHApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12dc54d9c60a350ac0cd4d69911edb12a96d3f61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+676952c007106feb360e23087663bf7c9a57815b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogUNAHApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogUNAHApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

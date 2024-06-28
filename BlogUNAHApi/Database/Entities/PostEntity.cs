@@ -12,7 +12,8 @@ namespace BlogUNAHApi.Database.Entities
         [Required]
         public string Title { get; set; }
         //-------
-    // TO-DO: Definir la relación entre usuario y post
+        // TO-DO: Definir la relación entre usuario y post
+        [StringLength(100)]
         [Column("author_id")]
         public string AuthorId { get; set; }
         //-------
@@ -24,9 +25,11 @@ namespace BlogUNAHApi.Database.Entities
 
         //Propiedad de Navegación
         [ForeignKey(nameof(CategoryId))] // es lo "mismo" que [ForeignKey("CategoryId"))]
-        public CategoryEntity Category { get; set; }
+        public virtual CategoryEntity Category { get; set; }
         //-------
         [Column("content")]
         public string Content { get; set; }
+
+        public virtual IEnumerable<PostTagEntity> Tags { get; set; }
     }
 }

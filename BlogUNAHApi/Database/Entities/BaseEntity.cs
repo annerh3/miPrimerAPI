@@ -16,10 +16,11 @@ namespace BlogUNAHApi.Database.Entities
         [Column("created_date")]
         public DateTime CreatedDate { get; set; }
         // ----------------------
+        [StringLength (100)]
         [Column("updated_by")]
         public string UpdatedBy { get; set; }
-        [Column("updated_date")]
         // ----------------------
+        [Column("updated_date")]
         public DateTime UpdatedDate { get; set; }
         //public bool IsDeleted { get; set; }
     }

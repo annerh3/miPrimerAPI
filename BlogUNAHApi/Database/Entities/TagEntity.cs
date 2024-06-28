@@ -14,5 +14,7 @@ namespace BlogUNAHApi.Database.Entities
         [StringLength(250)]
         [Column("description")]
         public string Description { get; set; }
+
+        public virtual IEnumerable<PostTagEntity> Posts { get; set; }
     }
 }

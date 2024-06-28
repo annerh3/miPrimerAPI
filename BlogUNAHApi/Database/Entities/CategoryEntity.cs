@@ -7,8 +7,6 @@ namespace BlogUNAHApi.Database.Entities
     [Table("categories", Schema = "dbo")]
     public class CategoryEntity : BaseEntity
     { 
-
-        // Data Annotatations
         [Display(Name ="Nombre")]
         [Required(ErrorMessage = "El {0} de la categoria es requerido.")]
         [StringLength(50)]
@@ -21,7 +19,7 @@ namespace BlogUNAHApi.Database.Entities
         [Column("description")]
         public string Description { get; set; }
 
-        public IEnumerable<PostEntity> Posts { get; set; }
+        public virtual IEnumerable<PostEntity> Posts { get; set; }
         // el "IEnumerable" es solo lectura.
     }
 }

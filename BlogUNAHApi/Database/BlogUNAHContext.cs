@@ -13,6 +13,7 @@ namespace BlogUNAHApi.Database
         public DbSet<CategoryEntity> Categories { get; set; } // esto representa una tabla en la base de datos
         public DbSet<TagEntity> Tags { get; set; } 
         public DbSet<PostEntity> Posts { get; set; } 
+        public DbSet<PostTagEntity> PostsTags { get; set; } 
 
 
     }

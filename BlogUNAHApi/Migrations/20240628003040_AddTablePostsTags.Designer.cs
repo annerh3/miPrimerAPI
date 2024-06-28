@@ -4,6 +4,7 @@ using BlogUNAHApi.Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BlogUNAHApi.Migrations
 {
     [DbContext(typeof(BlogUNAHContext))]
-    partial class BlogUNAHContextModelSnapshot : ModelSnapshot
+    [Migration("20240628003040_AddTablePostsTags")]
+    partial class AddTablePostsTags
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -50,8 +53,7 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnName("name");
 
                     b.Property<string>("UpdatedBy")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)")
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("updated_by");
 
                     b.Property<DateTime>("UpdatedDate")
@@ -71,8 +73,7 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnName("id");
 
                     b.Property<string>("AuthorId")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)")
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("author_id");
 
                     b.Property<Guid>("CategoryId")
@@ -92,6 +93,9 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnType("datetime2")
                         .HasColumnName("created_date");
 
+                    b.Property<Guid?>("PostEntityId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<DateTime>("PublicationDate")
                         .HasColumnType("datetime2")
                         .HasColumnName("publication_datetime");
@@ -103,8 +107,7 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnName("title");
 
                     b.Property<string>("UpdatedBy")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)")
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("updated_by");
 
                     b.Property<DateTime>("UpdatedDate")
@@ -114,6 +117,8 @@ namespace BlogUNAHApi.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");
+
+                    b.HasIndex("PostEntityId");
 
                     b.ToTable("posts", "dbo");
                 });
@@ -143,8 +148,7 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnName("tag_id");
 
                     b.Property<string>("UpdatedBy")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)")
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("updated_by");
 
                     b.Property<DateTime>("UpdatedDate")
@@ -188,8 +192,7 @@ namespace BlogUNAHApi.Migrations
                         .HasColumnName("name");
 
                     b.Property<string>("UpdatedBy")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)")
+                        .HasColumnType("nvarchar(max)")
                         .HasColumnName("updated_by");
 
                     b.Property<DateTime>("UpdatedDate")
@@ -209,13 +212,17 @@ namespace BlogUNAHApi.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("BlogUNAHApi.Database.Entities.PostEntity", null)
+                        .WithMany("Posts")
+                        .HasForeignKey("PostEntityId");
+
                     b.Navigation("Category");
                 });
 
             modelBuilder.Entity("BlogUNAHApi.Database.Entities.PostTagEntity", b =>
                 {
                     b.HasOne("BlogUNAHApi.Database.Entities.PostEntity", "Post")
-                        .WithMany("Tags")
+                        .WithMany()
                         .HasForeignKey("PostId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -238,7 +245,7 @@ namespace BlogUNAHApi.Migrations
 
             modelBuilder.Entity("BlogUNAHApi.Database.Entities.PostEntity", b =>
                 {
-                    b.Navigation("Tags");
+                    b.Navigation("Posts");
                 });
 
             modelBuilder.Entity("BlogUNAHApi.Database.Entities.TagEntity", b =>
